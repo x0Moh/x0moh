@@ -1,6 +1,5 @@
 ## Hello I'm Mohammed
 
-<a href="https://github.com/x0moh/github-stats">
-  <img src="https://github.com/x0moh/github-stats/raw/master/generated/overview.svg" />
-  <img src="https://github.com/x0moh/github-stats/raw/master/generated/languages.svg" />
-</a>
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=x0moh&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0moh&layout=compact&theme=default)
