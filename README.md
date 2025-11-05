@@ -1,4 +1,4 @@
-<a href="https://github.com/x0moh/github-stats">
-  <img src="https://github.com/x0moh/github-stats/raw/master/generated/overview.svg" />
-  <img src="https://github.com/x0moh/github-stats/raw/master/generated/languages.svg" />
+<a href="https://github.com/x0moh">
+  <img src="https://github-readme-stats.vercel.app/api?username=x0moh&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0moh&layout=compact&theme=default" />
 </a>
